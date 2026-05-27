@@ -1,2 +1,2 @@
 # HelloWorld
-This is for test GitHub work flow
+This is for testing GitHub work flow
